@@ -1,6 +1,6 @@
--<!-- Banner GIF or Animation -->
-<p align="center">[
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400" alt="funny programmer girl gif" />
+<!-- 👩‍💻 Stylish Tech Typing GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="400" alt="tech typing gif" />
 </p>
 
 # Hi there 👋 I'm Nupoor Verma — aka [@nuve-ra](https://github.com/nuve-ra)
