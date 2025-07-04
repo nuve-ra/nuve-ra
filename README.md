@@ -12,6 +12,7 @@
 😄 Pronouns: she/her/human/person
 ⚡ Fun fact: I love learning, implementing, and... (psst, you guessed it) learning while implementing!
 
+Check out my portfolio: https://myportifolio-rust.vercel.app/
 
 ---
 
