@@ -1,26 +1,45 @@
-- 👋 Hi, I’m  Nupoor Verma also goes by the Git name @nuve-ra.
-- 👀 I’m interested in creating,learning,well learning also implementing my knowledge by learning especially being the fast learner helps in (you can guess)yup that's right.
-- 🌱 I’m currently learning and trying my hands on coding.
-- 💞️ I’m looking to collaborate on anyone who is interseted to work with me.
-- 📫 How to reach me it's easy nv552110@gmail.com see easy.Need to see my work https://myportifolio-rust.vercel.app/  ..
-- 😄 Pronouns: she/her/human/person
-- ⚡ Fun fact: i love learning,implementing and guess what (whisper)learning and implementing.
--   welcome me in the world of yours where knowledge meets the technology. Happy to join(' ')/
+-Hi there 👋 I'm Nupoor Verma — aka @nuve-ra 💻
 
--   
-Check my live projects:
-1.  https://blog-it-out.netlify.app/
-2.  https://weatherapp-mauve-three.vercel.app/
-3.  https://1quizee.vercel.app/
-4.  https://effervescent-starlight-fe54cf.netlify.app/
-5.  https://dulcet-daifuku-8434d3.netlify.app/
-6.  https://reactassesment.vercel.app/
-7.  https://spotify-admin-clone.netlify.app/add-song
-8.  https://song-spotify-clone.netlify.app/
-9.  https://startling-liger-cf3b9e.netlify.app/
-10.  https://app.netlify.com/projects/guileless-flan-286212/overview
-11.  https://spotify-admin-clone.netlify.app/
-<!---
-nuve-ra/nuve-ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm passionate about learning, creating, and most of all — implementing what I learn. Being a fast learner? Yup, that definitely helps! 😉
+
+🌱 Currently diving deeper into coding, exploring new tech, and building projects that challenge and excite me.
+
+💞️ I’m open to collaboration — if you’re working on something interesting or just want to build together, let’s connect!
+
+📫 Reach me at: nv552110@gmail.com
+📂 See my portfolio: myportifolio-rust.vercel.app
+
+😄 Pronouns: she/her/human/person
+⚡ Fun fact: I love learning, implementing, and... (psst, you guessed it) learning while implementing!
+
+
+---
+
+🚀 Live Projects
+
+📝 Blog App :  https://blog-it-out.netlify.app/
+
+🌦️ Weather App : https://weatherapp-mauve-three.vercel.app/
+
+🧠 Quiz App : https://1quizee.vercel.app/
+
+🎵 Spotify Clone - Admin : https://spotify-admin-clone.netlify.app/add-song
+
+🎧 Spotify Clone - User : https://song-spotify-clone.netlify.app/
+
+📺 React Assessment : https://reactassesment.vercel.app/
+
+🎨 Mini Portfolio : https://effervescent-starlight-fe54cf.netlify.app/
+
+💫 JS Animation to-do react native Project : https://startling-liger-cf3b9e.netlify.app/
+
+🧁 Fun Daifuku Project : https://dulcet-daifuku-8434d3.netlify.app/
+
+🎯 Guileless Flan : https://guileless-flan-286212.netlify.app/
+
+
+
+---
+
+🎉 Welcome me into your world where knowledge meets technology. Happy to be here! ✨
+Let’s build something awesome together
