@@ -7,6 +7,16 @@
 - ⚡ Fun fact: i love learning,implementing and guess what (whisper)learning and implementing.
 -   welcome me in the world of yours where knowledge meets the technology. Happy to join(' ')/
 
+-   
+Check my live projects:
+1.  https://blog-it-out.netlify.app/
+2.  https://weatherapp-mauve-three.vercel.app/
+3.  https://1quizee.vercel.app/
+4.  https://effervescent-starlight-fe54cf.netlify.app/
+5.  https://dulcet-daifuku-8434d3.netlify.app/
+6.  https://reactassesment.vercel.app/
+7.  https://spotify-admin-clone.netlify.app/add-song
+8.  https://song-spotify-clone.netlify.app/
 <!---
 nuve-ra/nuve-ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
