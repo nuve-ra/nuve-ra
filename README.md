@@ -1,5 +1,5 @@
 -<!-- Banner GIF or Animation -->
-<p align="center">
+<p align="center">[
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400" alt="funny programmer girl gif" />
 </p>
 
