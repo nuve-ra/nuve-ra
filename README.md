@@ -1,6 +1,6 @@
 <!-- 🖼️ SVG Banner with Name + Role -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F29D9D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Nupoor+Verma+%7C+Full+Stack+Developer;Curious+Mind+%7C+Fast+Learner+%7C+Self-Taught+Developer" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F29D9D&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Nupoor+Verma+%7C+Full+Stack+Developer;Curious+Mind+%7C+Fast+Learner+%7C+Self-Taught+Developer" alt="Typing SVG Banner" />
 </p>
 
 <!-- 👩‍💻 Stylish Tech Typing GIF -->
