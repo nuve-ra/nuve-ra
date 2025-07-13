@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F29D9D&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Nupoor+Verma+%7C+Full+Stack+Developer;Curious+Mind+%7C+Fast+Learner+%7C+Self-Taught+Developer" alt="Typing SVG Banner" />
 </p>
 
-<!-- 👩‍💻 Stylish Tech Typing GIF -->
+<!-- 🌸 Calm & Soothing Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="400" alt="tech typing gif" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" alt="calm coding gif" />
 </p>
 
 # Hi there 👋 I'm Nupoor Verma — aka [@nuve-ra](https://github.com/nuve-ra)
