@@ -4,9 +4,11 @@
 </p>
 
 <!-- 🌸 Calm & Soothing Coding GIF -->
+<!-- 👩‍💻 Stylish Tech Typing GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" alt="calm coding gif" />
+  <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="400" alt="tech typing gif" />
 </p>
+
 
 # Hi there 👋 I'm Nupoor Verma — aka [@nuve-ra](https://github.com/nuve-ra)
 
