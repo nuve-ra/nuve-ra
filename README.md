@@ -57,6 +57,16 @@
 
 ---
 
+## 🏆 Achievements
+
+- ✅ DEV Community Challenge Badge  
+<p align="center">
+  <a href="https://dev.to/nuve_ra" target="_blank">
+    <img src="https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" alt="DEV Challenge Badge" width="200" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
